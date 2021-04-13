@@ -1,5 +1,5 @@
 # How it's works
-1. First download the libary that we need
+1. First download the library that we need
 ````
 pip install opencv-python
 pip install numpy 
